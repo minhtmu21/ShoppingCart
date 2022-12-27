@@ -1,8 +1,9 @@
 export const FireBaseConfig = {
-  apiKey: "<YOUR_API_KEY>",
-  authDomain: "<YOUR_AUTH_DOMAIN>",
-  databaseURL: "<YOUR_DATABASE_URL>",
-  projectId: "<YOUR_PROJECT_ID>",
-  storageBucket: "<YOUR_STORAGE_BUCKETS>",
-  messagingSenderId: "<YOUR_MESSAGING_SENDER_ID>",
+  apiKey: "AIzaSyA_qbT1CGhZnoWHoY6IIPLpdY6pYeAcBdM",
+  authDomain: "chatmd-422c9.firebaseapp.com",
+  projectId: "chatmd-422c9",
+  storageBucket: "chatmd-422c9.appspot.com",
+  messagingSenderId: "215934554985",
+  appId: "1:215934554985:web:4304f695db473894c023f8",
+  measurementId: "G-FXE1N5TNX5"
 };
